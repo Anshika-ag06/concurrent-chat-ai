@@ -1,5 +1,7 @@
 # concurrent-chat-ai
 
+![demo](demo.gif)
+
 A multi-client TCP chat application in Python with two layers of AI integration — client-side reply suggestions and a server-side tool-calling AI agent.
 
 Built to demonstrate concurrent programming, network sockets, thread synchronization, and applied AI/agent design.
